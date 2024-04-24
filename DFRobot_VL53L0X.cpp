@@ -5,7 +5,7 @@
  * @copyright   Copyright (c) 2010 DFRobot Co.Ltd (http://www.dfrobot.com)
  * @license     The MIT License (MIT)
  * @author [LiXin](xin.li@dfrobot.com)
- * @version  V1.0
+ * @version  V1.0.1
  * @date  2017-8-21
  * @url https://github.com/DFRobot/DFRobot_VL53L0X
  */
